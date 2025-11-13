@@ -2,7 +2,7 @@ plugins {
     id("java-library")
     id("idea")
 	id("net.minecraftforge.accesstransformers") version "5.0.1"
-	id("net.minecraftforge.gradle") version "7.0.0-beta.46"
+	id("net.minecraftforge.gradle") version "7.0.0-beta.47"
 	id("net.minecraftforge.jarjar") version "0.2.3"
 }
 
